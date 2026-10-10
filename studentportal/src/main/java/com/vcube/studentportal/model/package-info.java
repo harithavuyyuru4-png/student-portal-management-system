@@ -1,0 +1,1 @@
+package com.vcube.studentportal.model;
